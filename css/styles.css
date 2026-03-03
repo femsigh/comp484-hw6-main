@@ -108,7 +108,7 @@ header img {
   object-fit: cover; /* This ensures the image covers the area without stretching insanely */
   float: left;
   margin-right: 30px;
-  border: 5px solid #ff6193ff; /* rose-kiss border */
+  border: 5px solid #ff6193ff; /* rose kiss border */
 }
 
 .profile-links p {
